@@ -14,5 +14,5 @@ All you need to do is:
 Build all the assets,
 `npm run build`
 
-Build all the assets,
+Watch the assets,
 `npm run watch`
